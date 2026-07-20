@@ -2,7 +2,7 @@
 name: job-score
 description: >-
   Score any job opportunity against [Your Name]'s profile and decide whether to pursue it. Use this skill whenever [Your Name] shares a job URL, pastes a job description, mentions a role she's seen, or asks "should I go for this?" or "what do you think about this role?" Evaluates salary fit, level match, scope match, technical fit, and domain fit on a 1-5 scale, applies the salary threshold rule for conditional roles, and produces a clear Process / Review / Skip recommendation. After scoring, updates the job-match-analysis artifact with the new role card.
-```
+
 ---
 
 # Job Match Scoring
