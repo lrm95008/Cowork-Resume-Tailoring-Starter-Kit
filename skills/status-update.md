@@ -1,6 +1,7 @@
 ---
 name: status-update
-description: Update the status of a job application in the tracker. Use this skill whenever [Your Name] reports any progress on an application -- a call scheduled, interview confirmed, offer received, rejection, withdrawal, or any other milestone. Works for both external roles and internal roles (which have a different status ladder). Updates the Job Applications Tracker.xlsx, adds a dated note, and refreshes the Job Hunt Status Board artifact automatically. Trigger phrases include: "I have an interview", "I got rejected", "I withdrew from", "they moved me to", "I applied to", "phone screen with", "got an offer from", "not moving forward with", and similar updates about application progress.
+description: >-
+  Update the status of a job application in the tracker. Use this skill whenever [Your Name] reports any progress on an application -- a call scheduled, interview confirmed, offer received, rejection, withdrawal, or any other milestone. Works for both external roles and internal roles (which have a different status ladder). Updates the Job Applications Tracker.xlsx, adds a dated note, and refreshes the Job Hunt Status Board artifact automatically. Trigger phrases include: "I have an interview", "I got rejected", "I withdrew from", "they moved me to", "I applied to", "phone screen with", "got an offer from", "not moving forward with", and similar updates about application progress.
 ---
 
 # Application Status Update
